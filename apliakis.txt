@@ -1,2 +1,3 @@
 halo nama saya zehan
 umur saya 21
+saya sedang belajar golang
